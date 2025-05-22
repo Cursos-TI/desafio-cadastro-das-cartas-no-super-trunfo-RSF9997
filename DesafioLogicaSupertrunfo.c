@@ -5,7 +5,7 @@ int main() {
     int populacao_01, populacao_02, p_turisticos_01, p_turisticos_02, resultado_01, resultado_02;
     float area_01, area_02, pib_01, pib_02;
     float densi_p01, densi_p02;
-    float acao_01, acao_02, somadaacao_01, somadaacao_02; // adicionado somadaacao_02
+    float acao_01, acao_02, somadaacao_01, somadaacao_02;
 
     printf("Digite as informações para a Cidade 1:\n");
     printf("Nome do Pais: ");
